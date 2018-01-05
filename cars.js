@@ -31,3 +31,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 });
             break;
             // add any other commands here.
+ }
+     }
+});
