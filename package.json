@@ -1,0 +1,8 @@
+ "name": "Cars",
+  "version": "1.0.0",
+  "description": "Cars",
+  "main": "cars.js",
+  "author": "@kanrag",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.3.1"
